@@ -1,1 +1,2 @@
 Aujourd'hui, j'apprends Git.
+git commit -m "Ajout d'un paragraphe"
