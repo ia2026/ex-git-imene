@@ -1,2 +1,4 @@
 Aujourd'hui, j'apprends Git.
 git commit -m "Ajout d'un paragraphe" 
+
+Astuce 1 : Toujours faire des petits commits.
