@@ -1,1 +1,1 @@
-imene a b d c 1 2
+imene a b d c 1 2 *
